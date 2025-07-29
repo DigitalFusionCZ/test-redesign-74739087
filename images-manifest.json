@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-07-29T07:42:53.030Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO.png",
+      "file_path": "public/images/logo-line-house.png",
+      "file_name": "logo-line-house.png",
+      "description": "A minimalist line-art logo depicting the outline of a house with a chimney, two upper windows, and a doorway, rendered in two shades of green on a white background. Context: Found at the top of the webpage, likely serving as the main brand logo. While it's a simple graphic, it's immediately recognizable and directly relates to the construction business. Good resolution for a logo.",
+      "size_bytes": 210273
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/project-chalet-renovation-tanvald.jpg",
+      "file_name": "project-chalet-renovation-tanvald.jpg",
+      "description": "An exterior view of a renovated traditional A-frame chalet with a dark brown upper facade and clean white lower facade, featuring multiple rectangular windows. The house is situated in a green, wooded area with a clear sky visible. A person is visible near the side of the house. Context: Found in the 'NAŠE POSLEDNÍ PROJEKTY' (Our Latest Projects) section, specifically for 'OMLAZENÍ CHALUPY U TANVALDU'. It effectively showcases a completed renovation project, demonstrating the company's work on older structures. The image quality is good, showing details of the facade and surroundings.",
+      "size_bytes": 690823
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-house-renovation-exterior.jpg",
+      "file_name": "project-house-renovation-exterior.jpg",
+      "description": "An exterior view of a renovated residential home with a light-colored facade, dark gray tiled roof, and dark framed windows. Two cars are parked on the street in front of the house, and a modern fence and gate are visible. The photo is taken on a sunny day with clear skies. Context: Found in the 'NAŠE POSLEDNÍ PROJEKTY' section and likely represents a 'KOMPLETNÍ REKONTRUKCE RODINNÉHO DOMU'. The image clearly displays the results of a complete exterior renovation, including roofing and facade work. The composition and lighting are good, effectively highlighting the property.",
+      "size_bytes": 558411
+    }
+  ]
+}
